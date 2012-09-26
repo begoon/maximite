@@ -1,4 +1,1 @@
-maximite
-========
-
-Files related to Maximite project
+Files related to Maximite project.
